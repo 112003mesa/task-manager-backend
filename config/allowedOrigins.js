@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    "http://localhost:5173",
+    "https://task-manager-frontend-six-red.vercel.app",
   ];
   
   export default allowedOrigins;
